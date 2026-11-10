@@ -1,0 +1,13 @@
+id,title,company,description
+1,AI Engineer Co-op,Sample Co A,"Build LLM applications with RAG and LangGraph agents. Python, FastAPI, Docker, AWS. Prompt engineering and evaluation of retrieval quality."
+2,Machine Learning Engineer Intern,Sample Co B,"Train and deploy deep learning models in PyTorch. MLflow for experiment tracking, Docker, Kubernetes, CI/CD. Strong Python and statistics."
+3,Data Engineer Co-op,Sample Co C,"Build ETL pipelines in Airflow and Spark. SQL, Snowflake, dbt. Python and Git. Data quality checks and scheduling."
+4,Software Engineer Intern,Sample Co D,"Backend services in Java and Go. REST APIs, PostgreSQL, Redis, Docker. Data structures and algorithms, code review, Agile."
+5,Full Stack Developer Co-op,Sample Co E,"React and TypeScript frontend, Node.js and Express backend, MongoDB. REST APIs, Git, CI/CD with GitHub Actions."
+6,Data Scientist Intern,Sample Co F,"Predictive modeling with scikit-learn and XGBoost. pandas, NumPy, SQL, A/B testing and statistics. Present results in Tableau."
+7,Generative AI Engineer Intern,Sample Co G,"Design AI agents with tool use using LangChain. RAG and GraphRAG over company documents. Fine-tuning transformers, Azure, Python."
+8,NLP Engineer Co-op,Sample Co H,"Named entity recognition with spaCy and transformers. NLP pipelines in Python, PyTorch, FastAPI service, Docker."
+9,MLOps Engineer Intern,Sample Co I,"Model versioning and monitoring with MLflow. Terraform, AWS, Kubernetes, CI/CD. Python and Git."
+10,Computer Vision Intern,Sample Co J,"Computer vision models with PyTorch and TensorFlow. Deep learning, data augmentation, Python, GCP."
+11,Analytics Engineer Co-op,Sample Co K,"SQL, dbt, BigQuery, Power BI. Python for data cleaning. Stakeholder communication."
+12,Applied AI Co-op,Sample Co L,"LLM chatbots and document processing. RAG, prompt engineering, Python, React, AWS, Docker. Agile team."

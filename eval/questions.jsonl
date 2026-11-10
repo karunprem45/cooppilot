@@ -1,0 +1,5 @@
+{"query": "build agents that use tools over company documents", "relevant_ids": ["7", "1"]}
+{"query": "track experiments and version models in production", "relevant_ids": ["9", "2"]}
+{"query": "schedule data pipelines and check data quality", "relevant_ids": ["3"]}
+{"query": "recognize entities in text", "relevant_ids": ["8"]}
+{"query": "image models", "relevant_ids": ["10"]}

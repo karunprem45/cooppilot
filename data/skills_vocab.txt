@@ -1,0 +1,65 @@
+# canonical|alias1|alias2
+Python
+SQL
+Java
+JavaScript|JS
+TypeScript
+C++
+Go|Golang
+R Programming|R language
+pandas
+NumPy
+scikit-learn|sklearn|scikit learn
+PyTorch
+TensorFlow
+XGBoost
+spaCy
+NLP|natural language processing
+Computer Vision
+Deep Learning
+Machine Learning|ML
+LLM|LLMs|large language model|large language models
+RAG|retrieval-augmented generation|retrieval augmented generation
+GraphRAG
+LangChain
+LangGraph
+Prompt Engineering
+Fine-tuning|fine tuning
+Transformers
+Agents|AI agents|agentic
+React
+Node.js|NodeJS
+Express
+FastAPI
+Flask
+REST APIs|REST API|RESTful
+GraphQL
+PostgreSQL|Postgres
+MongoDB
+Redis
+Docker
+Kubernetes|k8s
+Terraform
+CI/CD
+Git
+GitHub Actions
+AWS|Amazon Web Services
+Azure
+GCP|Google Cloud
+Airflow|Apache Airflow
+Spark|PySpark|Apache Spark
+Snowflake
+BigQuery
+dbt
+Kafka
+ETL
+MLflow
+MLOps
+Tableau
+Power BI
+Streamlit
+Statistics
+A/B Testing
+Data Structures
+Algorithms
+Agile|Scrum

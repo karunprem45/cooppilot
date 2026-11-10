@@ -1,0 +1,7 @@
+.env
+.chroma/
+mlruns/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
